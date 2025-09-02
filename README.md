@@ -52,8 +52,8 @@ I am a **21-year-old** passionate **Computer Science** student in my third year 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian6303&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-%C8%99chiopu-37818124b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.schiopu19@gmail.com)
 
 ---
 ⭐️ _Always open to new opportunities and collaborations!_
