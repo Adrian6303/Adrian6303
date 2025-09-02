@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Schiopu Adrian!
 
 ## 🚀 About Me
-I am a **21-year-old** passionate **Computer Science** student in my third year at **UBB FMI** in Romania. I have a strong background in software development and a deep interest in problem-solving, algorithms, and system design. My expertise spans multiple programming languages and technologies, making me adaptable and eager to learn new skills.
+I am a **22-year-old** passionate **Computer Science** student at **UBB Faculty of Mathematics and Computer Science** in Romania. I have a strong background in software development and a deep interest in problem-solving, algorithms, and system design. My expertise spans multiple programming languages and technologies, making me adaptable and eager to learn new skills.
 
 ## 💻 Tech Stack
 
